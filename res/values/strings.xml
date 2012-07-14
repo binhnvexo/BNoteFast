@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">BNote</string>
+<string name="no_note">No note yet!</string>
+<string name="title">Title</string>
+<string name="body">Content</string>
+<string name="menu_add">ADD</string>
+<string name="menu_close">CLOSE</string>
+<string name="save">SAVE</string>
+<string name="delete">DELETE</string>
+<string name="back">BACK</string>
+<string name="delete_all_text">DELETE TEXT</string>
+<string name="menu_title">RENAME</string>
+<string name="add_name">Please input file name!</string>
+<string name="ok_btn">OK</string>
+<string name="cancel_btn">CANCEL</string>
+<string name="rename_title">Rename</string>
+<string name="menu_edit">EDIT</string>
+</resources>
